@@ -1,0 +1,6 @@
+{
+  "name": "Wurldcoco AI",
+  "description": "Agentic IP and cultural rights auditor safeguarding indigenous cultural heritage, traditional folklore, and cinema screenplays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
